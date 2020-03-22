@@ -8,4 +8,5 @@ def initulaize(name)
 end
 end
 
-new_dog = Dog.new("lassie")
+new_dog = Dog.new
+new_dog.name = "Lassie"
