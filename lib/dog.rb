@@ -10,4 +10,4 @@ end
 
 new_dog = Dog.new
 @this_dogs_name = "lassie"
-puts name
+puts @this_dogs_name
