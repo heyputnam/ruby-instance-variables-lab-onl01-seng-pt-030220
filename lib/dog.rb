@@ -1,10 +1,9 @@
 class Dog
 def initulaize(name)
-name = @this_dogs_name
+@this_dogs_name = name
 end
 end
 
-Dog.new
-@this_dogs_name = "Lassie"
-
-Dog.name
+lassie = Dog.new
+name = "Lassie"
+end
