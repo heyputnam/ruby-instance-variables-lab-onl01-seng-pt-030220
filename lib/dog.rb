@@ -5,4 +5,3 @@ end
 end
 
 new_dog = Dog.new("lassie")
-
