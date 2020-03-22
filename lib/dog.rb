@@ -8,5 +8,5 @@ def initulaize(name)
 end
 end
 
-new_dog = Dog.new("Lassie")
+new_dog = Dog.new
 @this_dogs_name = "lassie"
