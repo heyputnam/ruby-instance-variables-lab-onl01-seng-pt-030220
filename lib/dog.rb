@@ -4,4 +4,5 @@ def initulaize(name)
 end
 end
 
-lassie = Dog.new("lassie")
+new_dog = Dog.new("lassie")
+
