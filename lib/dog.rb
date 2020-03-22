@@ -4,5 +4,4 @@ def initulaize(name)
 end
 end
 
-lassie = Dog.new
-@this_dogs_name = "Lassie"
+lassie = Dog.new(Lassie)
