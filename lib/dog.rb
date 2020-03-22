@@ -9,7 +9,7 @@ class Dog
    @this_dogs_name
  end
  end
- 
+
 
 new_dog = Dog.new
 new_dog.name = "lassie"
