@@ -6,4 +6,3 @@ end
 
 lassie = Dog.new
 name = "Lassie"
-end
