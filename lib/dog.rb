@@ -5,4 +5,4 @@ end
 end
 
 lassie = Dog.new
-name = "Lassie"
+@this_dogs_name = "Lassie"
