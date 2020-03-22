@@ -6,4 +6,5 @@ class Dog
   end
 end
 
-new_dog = Dog.new("Lassie")
+new_dog = Dog.new
+@name = "lassie"
